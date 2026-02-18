@@ -1,0 +1,5 @@
+{
+  "name": "SEO Brief Generator",
+  "description": "An internal tool for SEO specialists to generate content briefs via n8n webhooks.",
+  "requestFramePermissions": []
+}
